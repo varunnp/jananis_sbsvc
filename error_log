@@ -1,0 +1,4 @@
+[20-Mar-2024 01:53:23 Asia/Kolkata] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home/c2321174c/public_html/sb.svc/modules/purchase/third_party/excel/PHPExcel/Shared/String.php on line 526
+[28-Mar-2024 20:31:12 Asia/Kolkata] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home/c2321174c/public_html/sb.svc/modules/purchase/third_party/excel/PHPExcel/Shared/String.php on line 526
+[28-Mar-2024 20:46:17 Asia/Kolkata] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home/c2321174c/public_html/sb.svc/modules/purchase/third_party/excel/PHPExcel/Shared/String.php on line 526
+[20-Apr-2024 11:08:44 Europe/Paris] PHP Fatal error:  Cannot redeclare purchase::delete_pur_request() in /home/c2321174c/public_html/sb.svc/modules/purchase/controllers/Purchase.php on line 856
